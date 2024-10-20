@@ -235,6 +235,17 @@ UPDATE students_performance
 SET GPA = ROUND(GPA, 1);
 ```
 
+Here is a display of two images showing the data before and after the data cleaning process.
+
+
+![before cleaning](https://github.com/theodorosmalezidis/students_perfomance/blob/main/images/student_data_table_image.old.png?raw=true)
+
+*Before data cleaning (This table visualization was created with Python after importing my SQL query results)*
+
+![after cleaning](https://github.com/theodorosmalezidis/students_perfomance/blob/main/images/student_data_table(3).png?raw=true)
+
+*After data cleaning (This table visualization was created with Python after importing my SQL query results)*
+
 
 # Conclusion
 
