@@ -26,7 +26,7 @@ The dataset contains comprehensive information on 2,392 high school students, de
 
 ## 1. Duplicates, Missing Values
 
-Basic, start try to find duplicates and indentify if there are any missing values through our dataset with the following queries
+Basic start, try to find duplicates and indentify if there are any missing values through our dataset with the following queries
 
 ```sql
 SELECT
