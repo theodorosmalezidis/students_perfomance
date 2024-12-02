@@ -1,7 +1,7 @@
 # Introduction
 
 
-Data cleaning is a crucial and very importand step in any data analysis project. It involves identifying and correcting errors, inconsistencies, and inaccuracies within a dataset to ensure that the data is complete, accurate, and usable. In this project, i focused on cleaning a dataset using  applying various , but simple, techniques using S
+Data cleaning is a crucial and very importand step in any data analysis project. It involves identifying and correcting errors, inconsistencies, and inaccuracies within a dataset to ensure that the data is complete, accurate, and usable. In this project, i focused on cleaning a dataset using  applying various , but simple, techniques.
 
 Using SQL, through a combination of querying, i transform data types, rounding values, and applying best practices for data integrity. The result is a clean, reliable dataset that is ready for further analysis and reporting, ensuring accurate insights can be derived in subsequent stages of the project.
 
